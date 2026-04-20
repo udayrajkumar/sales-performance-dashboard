@@ -46,3 +46,7 @@ This project focuses on analyzing sales data to track business performance acros
 - Visual comparison of performance across regions and categories
 
 ## Dashboard Preview
+
+![Dashboard](IMG-20260415-WA0009.jpg)
+![Dashboard](IMG-20260415-WA0010.jpg)
+![Dashboard](IMG-20260415-WA0011.jpg)
